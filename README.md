@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+I'm Subhadeep Das a.k.a Raven1233
+Nice to meet ya
+Welcome to my Profile!!!!
 
 - 🔭 I’m currently working on my final semester project!!
 - 🌱 I’m currently learning deep learning and neural networks!!
