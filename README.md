@@ -13,10 +13,10 @@
 - 👯 I’m looking to collaborate on deep learning projects!!
 - 🤔 I’m looking for help with Tensorflow and Pytorch!!
 - 💬 Ask me about web development skills!!
-- 📫 How to reach me: [Instagram](https://www.instagram.com/_.deadline.dork._/?hl=en) [Twitter](https://twitter.com/Subhade66864017) [Codepen](https://codepen.io/R4v3n404)
+- 📫 How to reach me: [Twitter](https://twitter.com/Subhade66864017) [Codepen](https://codepen.io/R4v3n404)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My handle name is Raven as she was my favourite character from Teen Titans!!!
 
 Talk with me(I'm kinda awesome):-
    
-
+[<img align="left" alt="Instagram" width="22px" src="https://cdc.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>](https://www.instagram.com/_.deadline.dork._/?hl=en)
