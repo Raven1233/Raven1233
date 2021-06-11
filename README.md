@@ -6,7 +6,7 @@
 
 ### Nice to meet you
 ### Welcome to my Profile!!!!
-<div style="color:light grey">___________________________________________________________</div>
+<div style="color:transparent">___________________________________________________________</div>
 
 
 - 🔭 I’m currently working on my final semester project!!
