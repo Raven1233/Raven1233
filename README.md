@@ -6,8 +6,8 @@
 
 ### Nice to meet you
 ### Welcome to my Profile!!!!
+<div style="color:light grey">___________________________________________________________</div>
 
-<div style="color:light grey">___________________________________________________________<div>
 
 - 🔭 I’m currently working on my final semester project!!
 - 🌱 I’m currently learning deep learning and neural networks!!
