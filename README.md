@@ -9,13 +9,13 @@
 <p style="color: transparent;">___________________________________________________________________</p>
 
 
-- 🔭 I’m currently working on my final semester project!!
-- 🌱 I’m currently learning deep learning and neural networks!!
-- 👯 I’m looking to collaborate on deep learning projects!!
-- 🤔 I’m looking for help with Tensorflow and Pytorch!!
-- 💬 Ask me about web development skills!!
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: My handle name is Raven as she was my favourite character from Teen Titans!!!
+- I’m currently working on my final semester project!!
+- I’m currently learning deep learning and neural networks!!
+- I’m looking to collaborate on deep learning projects!!
+- I’m looking for help with Tensorflow and Pytorch!!
+- Ask me about web development skills!!
+- Pronouns: He/Him
+- Fun fact: My handle name is Raven as she was my favourite character from Teen Titans!!!
 
 ### Connect with me:-
    
