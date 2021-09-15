@@ -9,7 +9,7 @@
 <p style="color: transparent;">___________________________________________________________________</p>
 
 
-- I’m currently learning Next JS and will soon switch to Angular JS!!
+- I’m currently learning Next JS and will soon switch over to Angular!!
 - I’m looking to collaborate on web development projects!!
 - Current Tech stack: MERN and also serverless with Firebase!!
 - Pronouns: He/Him
