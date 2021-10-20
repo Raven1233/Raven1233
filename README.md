@@ -11,7 +11,7 @@
 
 - I’m currently learning Next JS and will soon switch over to Angular!!
 - I’m looking to collaborate on web development projects!!
-- I particiapting in my first ever Hacktoberfest this year !! 
+- I'm particiapting in my first ever Hacktoberfest this year !! 
 - Current Tech stack: MERN and also serverless with Firebase!!
 - Pronouns: He/Him
 - Fun fact: My handle name is Raven as she was my favourite character from Teen Titans!!!
